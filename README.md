@@ -36,8 +36,7 @@
 
 - **Languages**:
     
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![Javascript](https://img.shields.io/badge/Javascript%20-%232370ED.svg?style=for-the-badge&logo=javascript&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>   
@@ -48,13 +47,7 @@
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-<br>
 
-- **Cloud Hosting**:
-
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
-<br>
 
 - **Softwares and Tools**:
 
@@ -66,15 +59,10 @@
 
 <br>
 
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
 
 
 </p>
 
-<br>
 <br>
 
 -----
@@ -83,20 +71,17 @@
 
 
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <img src="https://media.tenor.com/L1A0_Mcdo7cAAAAi/dm4uz3-foekoe.gif" width ="80"> <b> Let's Connect..!</b>
 <br>
 <div align="center">
-<a href="https://linkedin.com/in/abdoachhoubi" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<a href="">
+<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=C13584&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/abdo_achhoubi" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/abdo.achhoubi" target="_blank">
+<a href="">
 <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://achhoubiplus.hashnode.dev" target="_blank">
-<img src=https://img.shields.io/badge/hashnode-%2300acee.svg?color=2962FF&style=for-the-badge&logo=hashnode&logoColor=white alt=hshnode style="margin-bottom: 5px;" />
+<a href="">
+<img src="https://img.shields.io/badge/slack-%ff5851db.svg?color=C13584&style=for-the-badge&logo=slack&logoColor=white%20alt=slack%20style=%22margin-bottom:%205px;" />
 </a>
 </div>
 <br>
@@ -104,5 +89,5 @@
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
 </p>
